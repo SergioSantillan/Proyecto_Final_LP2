@@ -3,6 +3,7 @@
 # Integrantes:
 
 3 Desarrolladores de Recolección de Datos:
+
 Santillan Tsejem, Sergio
 
 3 Analistas de Datos:
